@@ -1,0 +1,14 @@
+{
+	"name": "frontpack/tom-select",
+	"type": "library",
+	"description": "Shim repository for orchidjs/tom-select",
+	"license": "Apache-2.0",
+	"extra": {
+		"assets-files": [
+			"css/tom-select.css",
+			"css/tom-select.default.css",
+			"js/tom-select.base.js",
+			"js/tom-select.complete.js"
+		]
+	}
+}
